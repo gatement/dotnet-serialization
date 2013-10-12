@@ -1,0 +1,7 @@
+1. System.Runtime.Serialization.Formatters.Binary.BinaryFormatter  --> Bin 
+
+2. System.Xml.Serialization.XmlSerializer  --> Xml
+
+3. System.Runtime.Serialization.DataContractSerializer  --> Xml
+
+4. System.Runtime.Serialization.Json.DataContractJsonSerializer  --> Json
